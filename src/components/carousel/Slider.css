@@ -1,0 +1,55 @@
+/* .Carousal{
+    display:flex;
+    background-color: black;
+    color:white;
+    height:650px;
+    padding: 50px;
+} */
+.Subcarousal1 h3{
+font-size: 20px;
+
+
+}
+.Subcarousal1 p{
+   font-size: 37px;
+}
+.Subcarousal1 button{
+    padding: 10px 15px;
+    background-color: red;
+    color:white;
+    font-size: 20px;
+} 
+
+.Subcarousal2 img{
+    width: 500px;
+    height: 500px;
+    transform: translate(170%, -10%);
+    padding: 50px;
+}
+
+.Subcarousal1{
+    transform: translate(-40%, -30%);
+    background-color: black;
+    
+}
+.Subcarousal2{
+    background-color: black;
+}
+.Subcarousal1 h4 strike{
+    color:grey;
+    padding: 5px 13px;
+
+}
+
+.Subcarousal1 h4 span{
+    font-size: 30px;
+}
+ .Subcarousal1 h1{
+     transform: translate(25%, 100%); 
+    font-size: 200px;
+ 
+  opacity: 0.1; 
+  color: white;
+ } 
+   
+ 

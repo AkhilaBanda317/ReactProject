@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 15px;
+   
+}
+.subheader2{
+    display :flex;
+    gap:50px;
+}
+.header .subheader2 li{
+    list-style: none;
+    font-size: 22px;
+}
